@@ -13,8 +13,13 @@
     phir top=top-1
     phir display
 4.  main()
-    switch laga ke push pop ko call kara lenge        */
+    switch laga ke push pop ko call kara lenge 
+5.  display le liye
+     for(int i=top;i>=0;--i)
+      printf("%d",a[i]);      */
 
+___________________________________________________________________________________________________________________________
+   
 #include <stdio.h>
 #define size 100000
 int top = -1, a[size];
