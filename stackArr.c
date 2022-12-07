@@ -1,4 +1,7 @@
-/* 1.define size 10000 phir top = -1, and a[size]
+/*
+   --------------EXPLANATION---------------------
+   
+1. define size 10000 phir top = -1, and a[size]
 2. push()
     if top==size-1 then overflow
     else ek element declare kr ke insert kara lo
